@@ -1,2 +1,0 @@
-# GITProfile
-Test GIT Sync
